@@ -16,7 +16,7 @@ Bem-vindo! Aqui, você encontrará uma visão geral sobre as principais habilida
 
 ### 3. **Cadência de Contato**  
    - Manter uma **cadência eficaz de contato** é essencial para nutrir leads. Uma cadência bem estruturada ajuda a criar proximidade com o cliente e a maximizar as chances de conversão.  
-   ![GIF representando contato recorrente com leads](https://media.giphy.com/media/3oEjHS6nUq1PkhZKZC/giphy.gif)
+   ![Imagem representando contato recorrente com leads](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moskitcrm.com%2Fblog%2Ffluxo-de-cadencia&psig=AOvVaw0YOeJclf9_gNoZXYNIjpJP&ust=1731509252552000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj0mOSE14kDFQAAAAAdAAAAABAI)
 
 ### 4. **Uso das Redes Sociais**  
    - As **redes sociais** são um poderoso canal para se conectar e interagir com prospects de forma orgânica. Aprendi como usar plataformas como LinkedIn para construir uma presença autêntica e gerar confiança.  
