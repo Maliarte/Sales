@@ -12,7 +12,7 @@ Bem-vindo! Aqui, você encontrará uma visão geral sobre as principais habilida
 
 ### 2. **Superação de Objeções**  
    - Lidar com objeções é uma arte. Durante a mentoria, aprendi técnicas para transformar desafios em conversas construtivas, mostrando a relevância e o valor de uma solução para o cliente.  
-   ![Imagem inspiradora sobre superação de objeções](https://source.unsplash.com/featured/?motivation,success)
+   ![Imagem inspiradora sobre superação de objeções](https://s3-sa-east-1.amazonaws.com/agendor-blog-uploads/2016/06/20192038/objecoes-em-vendas.jpg)
 
 ### 3. **Cadência de Contato**  
    - Manter uma **cadência eficaz de contato** é essencial para nutrir leads. Uma cadência bem estruturada ajuda a criar proximidade com o cliente e a maximizar as chances de conversão.  
